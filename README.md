@@ -1,4 +1,4 @@
-# Tecnico-de-Informática-UC1-
+# Tecnico-de-Informática-UC1- Senac GUARATINGUETÁ -SP
 
 from pathlib import Path
 
