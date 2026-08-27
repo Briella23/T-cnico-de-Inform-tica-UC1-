@@ -1,4 +1,4 @@
-# T-cnico-de-Inform-tica-UC1-
+# Tecnico-de-Informática-UC1-
 
 from pathlib import Path
 
