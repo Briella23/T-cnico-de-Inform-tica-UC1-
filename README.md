@@ -2,7 +2,7 @@
 
 from pathlib import Path
 
-content = """# 🖥️ Peças do Computador — significado e para que servem
+content = 🖥️ Peças do Computador — significado e para que servem
 
 > Guia introdutório para entender as principais peças e cabos de um computador.
 
